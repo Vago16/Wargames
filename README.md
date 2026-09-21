@@ -1,4 +1,4 @@
-##OverTheWire Wargames
+## OverTheWire Wargames
 
 OverTheWire is an educational website filled with games that challenge players to learn about cybersecurity in a gamified setting.
 
