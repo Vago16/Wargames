@@ -13,7 +13,7 @@ Steps :
 
 ```find -type f -size 1033c ! -executable```
 
-```cat ./inherecat./maybehere07/.file2```
+```cat ./inhere/maybehere07/.file2```
 
 After doing so, the password is:
 
