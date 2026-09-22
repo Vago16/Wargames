@@ -1,6 +1,6 @@
 ## Level 7
 
-We will be using the ```find``` command again, now with the criteria of:owned by user bandit7, owned by group bandit6, and 33 bytes in size.  The vital flags will be ```-user``` and ```-group```.  The ```2>/dev/null``` is not strictly necessary here, but helps with filtering out files that are permission denied.
+We will be using the ```find``` command again, now with the criteria of: owned by user bandit7, owned by group bandit6, and 33 bytes in size.  The vital flags will be ```-user``` and ```-group```.  The ```2>/dev/null``` is not strictly necessary here, but helps with filtering out files that are permission denied.
 
 Steps:
 
